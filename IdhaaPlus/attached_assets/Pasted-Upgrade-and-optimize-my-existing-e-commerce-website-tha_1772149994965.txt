@@ -1,0 +1,85 @@
+Upgrade and optimize my existing e-commerce website that sells electrical and lighting products (LED tube lights, table lamps, ceiling lights, lighting accessories, switches, cables).
+
+Goals:
+- Make the website look professional and modern
+- Improve UI/UX for higher conversion
+- Optimize for a single-country market
+- Arabic primary language with RTL support
+
+Brand Positioning:
+- Professional lighting & electrical supplier
+- Trusted, high-quality products
+- Clean, modern, technology-focused identity
+
+Required Improvements:
+
+1) Homepage Optimization:
+- Hero section with strong headline about lighting solutions
+- Featured categories section
+- Best-selling products section
+- Why choose us section (quality, warranty, fast delivery, cash on delivery)
+- Customer reviews section
+- Clean footer with contact info
+
+2) Categories Structure:
+Main categories:
+- LED Tube Lights
+- Table Lamps
+- Ceiling Lights
+- Outdoor Lighting
+- Electrical Accessories
+- Switches & Sockets
+- Cables & Wiring
+
+Each category must:
+- Have filter options (price, brand, wattage, color temperature)
+- Clean product grid layout
+
+3) Product Page Upgrade:
+- Large product image gallery
+- Technical specifications section (wattage, voltage, lumens, color temperature)
+- Stock availability
+- Cash on Delivery badge
+- Related products
+- Customer reviews
+- Clear Add to Cart button
+
+4) Checkout Optimization:
+- Simple checkout form
+- Name, phone, city, area, street
+- Cash on Delivery only
+- Order confirmation page
+
+5) Trust Elements:
+- Warranty badge
+- Secure shopping badge
+- Fast delivery message
+- Return policy section
+
+6) Performance:
+- Optimize images
+- Fast loading speed
+- Mobile responsive design
+- SEO optimization for lighting keywords
+
+7) Admin Features:
+- Add/edit products
+- Manage categories
+- Manage stock
+- View orders
+- Update order status
+
+Design Style:
+- Modern
+- Clean
+- Light theme (white + yellow accent for lighting brand)
+- Professional typography
+- Smooth animations
+
+Generate:
+- Improved layout structure
+- Clean folder structure
+- Reusable components
+- Better product schema
+- SEO meta tags
+- Production-ready improvements
